@@ -1,9 +1,1 @@
-This is a Java maven project used to implement a solution to the posed problem.  Model decisions were kept very simple, as were parser considerations.  A more complete model and parser built for exensibility and elegance was not done per the request to not abstract more than needed as well as it would be overkill for this basic sample.  For a more complex parser on data with significantly more fields types the if/else pattern gets old quickly.  Similarly I have kept exception types to a minimum.  
-
-I have omitted logging for similar reasons due to the lack of complexity of the problem statement.  I have also not instrumented the build with code coverage (Moment of honesty: maven was giving me some fits and I wanted to get this submitted).
-
-Testing is fairly rich and covers many bad data scenarios though this may be overkill for this intent, it does represent a more production-like code and testing concept.  Testing is done at both the method function level as well as the higher level input file/output file validation level.  For the latter, I am using input/output/baseline comparisons.  This is a rather rigid validation but is complete and allows for VERY easy future test creation as well as test inspection when something fails as the artifacts are all preserved.  
-
-This implementation is using standard in and standard out but this is also abstracted from the main working code with input and output streams as a minimal abstraction.  There is also no dependency injection framework being used though the code is designed in a way that injection is being done, just not externally.  This also lends to easy testing as very little is needed to be created to test each feature and there are few dependencies.
-
-If you want to invoke the program, DrivingSummary has the main method.  I have not configured the jar file to be directly executable in the manifest.  I am tar'ing the complete build so it may be larger than desired, but this way all test artifacts are in place as well without execution.
+Sample project with a file-based artifact test mechanism.  This is also using jacoco and
