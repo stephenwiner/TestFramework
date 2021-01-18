@@ -5,46 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7f712c-6d3b-4ac8-9895-a0e81e60cbec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anon/ExecutableService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anon/ReverseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/baseline/evenCharsTest.baseline" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/input/emptyTest.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/input/evenCharsTest.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/input/oddCharsTest.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrivingSummary.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrivingSummary.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anon/driver/DrivingSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anon/exception/DataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anon/model/DriverSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anon/model/Trip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anon/parser/DriverParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anon/driver/DrivingSummaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anon/ReverseServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anon/driver/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anon/ExecutableServiceTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anon/parser/DriverParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/baseline/Sample.baseline" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/baseline/SampleDuplicates.baseline" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/baseline/SampleWith200mph.baseline" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/baseline/SampleWithSlowmph.baseline" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/input/Sample.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/input/SampleDuplicates.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/input/SampleWith200mph.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/input/SampleWithSlowmph.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DrivingSummary-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/driver/DrivingSummary$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/driver/DrivingSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/exception/DataException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/model/DriverSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/model/Trip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/anon/parser/DriverParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

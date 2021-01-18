@@ -1,1 +1,0 @@
-Sample project with a file-based artifact test mechanism.  This is also using jacoco and
